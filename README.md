@@ -1,6 +1,6 @@
 # Predicting House Prices
 
-In this project I focused on Exploratory data analysis (EDA) and adavnaced regression techniques.
+In this project I focused on Exploratory data analysis (EDA) and advanced regression techniques. The dataset used can be found here: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 
 * There are five steps in the EDA:
     - Basic Cleaning- handling missing data, outliers and categorical variables
@@ -13,6 +13,3 @@ In this project I focused on Exploratory data analysis (EDA) and adavnaced regre
     - Linear Regression with Lasso regularization (L1 penalty)
     - Linear Regression with ElasticNet regularization (L1 and L2 penalty)
     - Stacked Linear Regression with LGBM, XGBoost, Gradient Boost and Kernel Ridge.
-
- 
- 
